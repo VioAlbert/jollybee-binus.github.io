@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./jollybee-binus.github.io/static/css/main.a449452f.css",
-    "main.js": "./jollybee-binus.github.io/static/js/main.dca84ede.js",
-    "static/js/453.df65aa80.chunk.js": "./jollybee-binus.github.io/static/js/453.df65aa80.chunk.js",
-    "static/media/logo.svg": "./jollybee-binus.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "./jollybee-binus.github.io/index.html",
-    "main.a449452f.css.map": "./jollybee-binus.github.io/static/css/main.a449452f.css.map",
-    "main.dca84ede.js.map": "./jollybee-binus.github.io/static/js/main.dca84ede.js.map",
-    "453.df65aa80.chunk.js.map": "./jollybee-binus.github.io/static/js/453.df65aa80.chunk.js.map"
+    "main.css": "./static/css/main.a449452f.css",
+    "main.js": "./static/js/main.3b181158.js",
+    "static/js/453.df65aa80.chunk.js": "./static/js/453.df65aa80.chunk.js",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.a449452f.css.map": "./static/css/main.a449452f.css.map",
+    "main.3b181158.js.map": "./static/js/main.3b181158.js.map",
+    "453.df65aa80.chunk.js.map": "./static/js/453.df65aa80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a449452f.css",
-    "static/js/main.dca84ede.js"
+    "static/js/main.3b181158.js"
   ]
 }
